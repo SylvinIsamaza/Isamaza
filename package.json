@@ -1,0 +1,23 @@
+{
+  "name": "projectht",
+  "version": "1.0.0",
+  "description": " this is the project made by Isamaza",
+  "main": "cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon cat.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SylvinIsamaza/projectHT.git"
+  },
+  "author": "Isamaza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SylvinIsamaza/projectHT/issues"
+  },
+  "homepage": "https://github.com/SylvinIsamaza/projectHT#readme",
+  "dependencies": {
+    "ejs": "^3.1.8"
+  }
+}
